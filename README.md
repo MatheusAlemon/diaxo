@@ -1,2 +1,0 @@
-# diaxo
-disgrama
